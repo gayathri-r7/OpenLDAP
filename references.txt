@@ -1,1 +1,2 @@
-
+1. https://dev.to/openlab/ldap-authentication-in-golang-with-bind-and-search-47h5
+2. https://medium.com/@hajsanad/ldap-authentication-in-golang-using-go-guardian-6477eade2a8e
